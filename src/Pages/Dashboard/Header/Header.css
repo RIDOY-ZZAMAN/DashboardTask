@@ -1,0 +1,34 @@
+.navbarBackground{
+    background-color: #FFFFFF;
+}
+.headerUser{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    
+}
+
+.searchField{
+    width: 266px;
+    height: 40px;
+    background-color:#F7F6F4 ;
+    margin-left: 32px;
+    border-radius: 10px;
+    border: none;
+    
+  
+}
+.searchArea{
+    position: relative;
+}
+
+.searchIcon{
+    position: absolute;
+    left: 50px;
+    top: 17px;
+    
+}
+
+.rightColumn{
+    background-color: #F3F6FD;
+}
+

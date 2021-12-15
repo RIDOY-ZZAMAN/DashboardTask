@@ -1,0 +1,65 @@
+h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600; 
+    text-align: left;
+    margin: 24px 0 34px 0;
+}
+
+h4,h6{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600; 
+}
+
+span{
+    font-family: 'Poppins', sans-serif;
+    color: gray;
+}
+p{
+    font-family: 'Poppins', sans-serif;  
+}
+.greetings{
+    width: 840px;
+    height: 70px;
+    background-color: #FFFFFF;
+    border-radius: 4px;
+    text-align: left;
+}
+
+.download {
+    width: 254px;
+    height: 70px;
+    background-image: linear-gradient(#5B5B5B, #232323);
+    border-radius: 7px;
+
+
+}
+
+.downloadIcon{
+    height: 29px;
+    width: 29px;
+    background-color:#FFFFFF; 
+    margin-left: 30px;
+    margin-top: 13px;
+    border-radius: 4px;
+}
+
+.commonHeightWidth1{
+    width: 354px;
+    height: 294px;
+    background-color:#FFFFFF ;
+    border-radius: 5px;
+}
+.commonHeightWidth2{
+    width: 733px;
+    height: 294px;
+    background-color:#FFFFFF ;
+    border-radius: 5px;
+}
+
+.cirular{
+    background: #F6F8FD;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+  
+}
